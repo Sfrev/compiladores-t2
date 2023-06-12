@@ -1,4 +1,4 @@
-# Trabalho 01 - Construção de Compiladores
+# Trabalho 02 - Construção de Compiladores
 
 ## Documentação Externa
 
