@@ -41,6 +41,6 @@ java -jar <caminho_do_corretor> "<python <caminho_programa>>" gcc <pasta_saidas>
 
 #### Exemplo 
 ```
-java -jar .\compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.jar "python C:\Repositorio\Compiladores\compiladores-t1\trabalho1.py" gcc C:\Repositorio\Compiladores\compiladores-t1\saidas C:\Repositorio\Compiladores\casos-de-teste "RA" "t1"
+java -jar .\compiladores-corretor-automatico-1.0-SNAPSHOT-jar-with-dependencies.jar "python C:\Repositorio\Compiladores\compiladores-t2\trabalho2.py" gcc C:\Repositorio\Compiladores\compiladores-t2\ C:\Repositorio\Compiladores\casos-de-teste "RA" "t2"
 ```
 
